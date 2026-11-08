@@ -18,10 +18,10 @@ Student participants representing Bangladesh, newest events first. School/colleg
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
-| Anova Yeana Chowdhury | Green Hill International School & College | Class 7 | — |
+| Anova Yeana Chowdhury | Green Hill International School & College | Class 7 | Honorable Mention |
 | Soumik Ray Dibyo | Cantonment Public School and College, Saidpur | Class 9 | — |
 | MD Rhine Salehin | Bangladesh International School and College | Class 9 | — |
-| MD Ridwan Mosarraf | Rajshahi Collegiate School | Class 8 | — |
+| MD Ridwan Mosarraf | Rajshahi Collegiate School | Class 8 | Bronze |
 | Yash Aditya Paul | Summerfield International School | Class 9 | — |
 
 ## IOAA 2025
@@ -87,13 +87,13 @@ Student participants representing Bangladesh, newest events first. School/colleg
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
-| Turja Roy | Notre Dame College | — | Honorable Mention |
+| Turja Roy | Notre Dame College | Class 11 | Honorable Mention |
 | Serat Mahmud Saad | Mirzapur Cadet College | — | Silver |
-| Abdullah Al Rafi Mahmud | Notre Dame College | — | Silver |
-| Md. Arman Hassan | Notre Dame College | — | Bronze |
-| Zim Mim Siddique Sowdha | Notre Dame College | — | Bronze |
+| Abdullah Al Rafi Mahmud | Notre Dame College | Class 12 | Silver |
+| Md. Arman Hassan | Notre Dame College | Class 12 | Bronze |
+| Zim Mim Siddique Sowdha | Notre Dame College | Class 12 | Bronze |
 | Sajia Shahrin Neha | Viqarunnisa Noon School & College | — | Bronze |
-| Adnan Bin Alamgir | Dhaka Residential Model College | — | — |
+| Adnan Bin Alamgir | Dhaka Residential Model College | Class 9 | — |
 
 ## IOAA 2019
 
