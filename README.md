@@ -4,7 +4,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 
 [Back to BDOAA](https://github.com/BDOAA)
 
-## IOAA 2026
+## IOAA 2026 — Hanoi, Vietnam 🇻🇳
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -14,7 +14,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | Md Radit Raian | Adamjee Cantonment College | HSC 2026 | — |
 | Arash Zuhayr Udoy | Maple Leaf International School | Class 9 | Bronze |
 
-## IOAA Jr 2026
+## IOAA Jr 2026 — Ubon Ratchathani, Thailand 🇹🇭
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | MD Ridwan Mosarraf | Rajshahi Collegiate School | Class 8 | Bronze |
 | Yash Aditya Paul | Summerfield International School | Class 9 | — |
 
-## IOAA 2025
+## IOAA 2025 — Mumbai, India 🇮🇳
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | Farhan Sajid | Govt. Laboratory High School, Rajshahi | Class 9 | Group Competition Winner |
 | Md Rokon Ujjaman Rhyme | Sylhet Government Model School & College | Class 9 | Honorable Mention |
 
-## IOAA 2024
+## IOAA 2024 — Vassouras, Rio de Janeiro, Brazil 🇧🇷
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | Radh Chowdhury | Notre Dame College | Class 11 | — |
 | Sheikh Hasin Abrar | Notre Dame College | Class 11 | — |
 
-## IOAA Jr 2024
+## IOAA Jr 2024 — Kathmandu, Nepal 🇳🇵
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | Farhan Sajid | Govt. Laboratory High School, Rajshahi | Class 8 | Honorable Mention |
 | Ahbab Zulkifal Zahin | Rajshahi Collegiate School | Class 9 | — |
 
-## IOAA 2023
+## IOAA 2023 — Chorzów, Poland 🇵🇱
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | Adnan Bin Alamgir | Dhaka Residential Model College | Class 11 | Silver |
 | Adiba Amira Siddiqa | Mastermind | Class 11 / A1 equivalent | — |
 
-## IOAA 2022
+## IOAA 2022 — Kutaisi, Georgia 🇬🇪
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | Piash | Mirzapur Cadet College | Class 11 | — |
 | Sumaiya Tahsin | Viqarunnisa Noon School & College | Class 11 | — |
 
-## IOAA 2021
+## IOAA 2021 — Bogotá, Colombia 🇨🇴 (online participation)
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | Adnan Bin Alamgir | Dhaka Residential Model College | Class 10 | Bronze |
 | Sayed Shafaat Mahmud | RAJUK Uttara Model College | Class 11 | Honorable Mention |
 
-## GeCAA 2020 — Individual Competition
+## GeCAA 2020 — Online, organised by Estonia 🇪🇪 — Individual Competition
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | Sajia Shahrin Neha | Viqarunnisa Noon School & College | — | Bronze |
 | Adnan Bin Alamgir | Dhaka Residential Model College | Class 9 | — |
 
-## IOAA 2019
+## IOAA 2019 — Keszthely, Hungary 🇭🇺
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ Student participants representing Bangladesh, newest events first. School/colleg
 | Samin Sharar Nafi | The Aga Khan School | Class 11 | — |
 | Fahim Shariar Khan | Monipur High School | SSC | — |
 
-## IOAA 2018
+## IOAA 2018 — Beijing, China 🇨🇳
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
