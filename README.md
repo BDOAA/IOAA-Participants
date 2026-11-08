@@ -108,8 +108,8 @@ Student participants representing Bangladesh, newest events first. School/colleg
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
-| Arnab Chowdhury | Cantonment English School & College, Chattogram | HSC | — |
-| Tunok Mondol | Notre Dame College | — | Honorable Mention |
-| Santanu Bosu Antu | Notre Dame College | — | — |
-| Jaber Ibne Taher | Dhaka College | — | — |
+| Arnab Chowdhury | Cantonment English School & College, Chattogram | Class 11 | — |
+| Tunok Mondol | Notre Dame College | Class 12 | Honorable Mention |
+| Santanu Bosu Antu | Notre Dame College | Class 12 | — |
+| Jaber Ibne Taher | Dhaka College | Class 12 | — |
 
