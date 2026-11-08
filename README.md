@@ -8,21 +8,21 @@ Student participants representing Bangladesh, newest events first. School/colleg
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
-| Junaed Labeeb Al Waasi | Notre Dame College | HSC 2026 / A2 equivalent | Group Competition Winner |
-| Sajid Aman | Notre Dame College | Class 11 / A1 equivalent | — |
-| Md Talha Zobair | Dhaka City College | Class 11 / A1 equivalent | Honorable Mention |
-| Md Radit Raian | Adamjee Cantonment College | HSC 2026 / A2 equivalent | — |
-| Arash Zuhayr Udoy | Maple Leaf International School | Class 9 or equivalent | Bronze |
+| Junaed Labeeb Al Waasi | Notre Dame College | HSC 2026 | Group Competition Winner |
+| Sajid Aman | Notre Dame College | Class 11 | — |
+| Md Talha Zobair | Dhaka City College | Class 11 | Honorable Mention |
+| Md Radit Raian | Adamjee Cantonment College | HSC 2026 | — |
+| Arash Zuhayr Udoy | Maple Leaf International School | Class 9 | Bronze |
 
 ## IOAA Jr 2026
 
 | Name | School / college at event | Class in participation-year records | Prize |
 | --- | --- | --- | --- |
 | Anova Yeana Chowdhury | Green Hill International School & College | Class 7 | — |
-| Soumik Ray Dibyo | Cantonment Public School and College, Saidpur | Class 9 or equivalent | — |
-| MD Rhine Salehin | Bangladesh International School and College | Class 9 or equivalent | — |
+| Soumik Ray Dibyo | Cantonment Public School and College, Saidpur | Class 9 | — |
+| MD Rhine Salehin | Bangladesh International School and College | Class 9 | — |
 | MD Ridwan Mosarraf | Rajshahi Collegiate School | Class 8 | — |
-| Yash Aditya Paul | Summerfield International School | Class 9 or equivalent | — |
+| Yash Aditya Paul | Summerfield International School | Class 9 | — |
 
 ## IOAA 2025
 
