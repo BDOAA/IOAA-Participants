@@ -1,6 +1,6 @@
 # Bangladesh IOAA Participants
 
-Student participants representing Bangladesh, newest events first. School/college and class are recorded for the participation year. Classes come from that year's BDOAA registration, national-round or TST records. Some forms specify the grade as of January, rather than the international event date; approximate classes are marked. **—** means information or a prize is not recorded.
+Student participants representing Bangladesh, newest events first. School/college and class are recorded for the participation year. Classes come from that year's BDOAA registration.
 
 [Back to BDOAA](https://github.com/BDOAA)
 
